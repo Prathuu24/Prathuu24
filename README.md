@@ -1,51 +1,20 @@
-<h1 align="center">Hi there, I'm Sai Prateeth 👋</h1>
-<h3 align="center">Aspiring Frontend / UI Developer • CSE Student @ JSSATE, Bangalore</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+UIs%2C+one+component+at+a+time;Learning+React%2C+one+bug+at+a+time;Open+to+internships+%26+collabs&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20&pause=1500" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20YOUR%20NAME&fontSize=40" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prathuu24&style=flat-square&color=58A6FF" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat-square" alt="open to internships" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" />
 
-**🚀 About Me**
+</div>
 
-* 🎓 First-year Computer Science Engineering student at JSS Academy of Technical Education, Bangalore
-* 💻 Currently focused on Frontend & UI Development
-* 🛠️ Comfortable with Python, Java, HTML, CSS — and leveling up in React
-* 🌱 Learning by building, one project at a time
-* 📍 Based in Bangalore, India
-* 📫 Find me on LinkedIn <!-- paste your LinkedIn URL here -->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**🧰 Tech Stack**
+### 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prathuu24&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathuu24&theme=tokyonight" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github,vscode" />
-</p>
-
-**📊 GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathuu24&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathuu24&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="38%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathuu24&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" />
-</p>
-
-**🔥 Featured Project**
-
-* **sp.github.io** — a personal site built with HTML, my first step into frontend development.
-* *More projects coming soon as I build out my React skills 🚧*
-
-**🤝 Let's Connect**
-
-<p align="center">
-  <a href="www.linkedin.com/in/saiprateethp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Prathuu24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itsprathuu.exe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
