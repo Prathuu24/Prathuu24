@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Prateeth&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://github.com/Prathuu24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+YOUR+NAME;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+Open+Source+Enthusiast;%E2%98%95+Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Prateeth;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI+%26+Open+Source+Enthusiast;%E2%98%95+Turning+coffee+into+code" alt="Typing SVG" />
 </a>
 
 <br/>
